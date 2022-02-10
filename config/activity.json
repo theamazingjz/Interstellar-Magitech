@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "theamazingjz",
+      "uniqueId": "8b18a59b-18a2-42c2-aa1d-6f3ebf75f883"
+    },
+    "time": 1644386967849,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/RammSQctPh"
+    }
+  }
+]
