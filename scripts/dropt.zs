@@ -13,4 +13,4 @@ Dropt.list("drops")
         )
         .addDrop(Dropt.drop()
           .selector(Dropt.weight(15))
-          .items([<minecraft:wheat_seeds>])
+          .items([<minecraft:wheat_seeds>]);
